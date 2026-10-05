@@ -67,14 +67,14 @@ header{
 }
 .brand .name{
     
-    font-size: 1.2rem;
+    font-size: 1rem;
     font-weight: 750;
     color: rgb(255, 255, 255);
 }
 .brand .name2{
     font-size: 1rem;
-    font-weight: 200;
-    color: white;
+    font-weight: 300;
+    color: rgb(0, 255, 21);
 }
 .brand .logo{
     width: 2.5rem;
